@@ -1,3 +1,3 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-GIT
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b78f200fb4f00bb2dfaa831511ebdc610a215b75100d2a232a06a3718c3d8e
+size 98
